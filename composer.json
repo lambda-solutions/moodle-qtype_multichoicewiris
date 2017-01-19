@@ -1,5 +1,5 @@
 {
-	"name": "lambda-solutions/moodle-qtype_multichoicewiris",
+	"name": "lambda-solutions/qtype_multichoicewiris",
 	"description": "Wiris question type multi choice",
         "license": "GPL-3.0",
 	"type": "moodle-qtype",
